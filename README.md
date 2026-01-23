@@ -19,6 +19,7 @@ I thrive where technology meets sustainability — whether debugging a React com
 ### 🛠️ My Skills**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=donut-vertical)]
 
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Juda-Tech-Green&theme=dark)]
 
