@@ -8,15 +8,16 @@
 
 ---
 
-I’m a 🌱 **planet-conscious developer** with f"{datetime.now().strftime('%Y') - 2018}" years of experience weaving code and data to solve real-world challenges.  
-💻 By day: Crafting web apps with Python and JavaScript.  
-🌍 By passion: Modeling ecosystems with spatial data (QGIS) and fighting climate change one dataset at a time. 
+> [!TIP]
+> I’m a 🌱 **planet-conscious developer** with f"{datetime.now().strftime('%Y') - 2018}" years of experience weaving code and data to solve real-world challenges.  
+> 💻 By day: Crafting web apps with Python and JavaScript.  
+> 🌍 By passion: Modeling ecosystems with spatial data (QGIS) and fighting climate change one dataset at a time. 
 
 ---
 
 <h3>  🛠️ My Skills  </h3
                      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=compact)
 
 ---
 
