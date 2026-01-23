@@ -17,7 +17,7 @@ I thrive where technology meets sustainability — whether debugging a React com
 **Belief:** The best solutions emerge when we connect 📊 data, 💡 code, and 👥 people.  
 
 ### 🛠️ **Tech Stack**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies I Work With:
 * JavaScript, Typescript, ES6 ✅
