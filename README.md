@@ -17,11 +17,7 @@ I thrive where technology meets sustainability — whether debugging a React com
 **Belief:** The best solutions emerge when we connect 📊 data, 💡 code, and 👥 people.  
 
 ### 🛠️ **Tech Stack**  
-- **Web Dev:** Node.js, Flask  
-- **Environment Data Science:** Python (NumPy, SciPy, Matplotlib)
-- **Geostatistics:** QGIS, PostGIS, Leaflet.js  
-- **Data base:** PostgreSQL
-- **Cloud:** AWS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies I Work With:
 * JavaScript, Typescript, ES6 ✅
