@@ -1,22 +1,38 @@
-<h3> Hello World, I'm JuDa 👋</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World,%20I'm%20JuDa%20%F0%9F%91%8B&fontSize=70&fontColor=F4F4F4&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-![Pro environmentalist badge](https://img.shields.io/badge/environmental-developer-green)
+###
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkxbTVhZnQ5eG1xN2RjOXJqa3Uxcnlxd2Fjc3Y5cXozMWRtOGV1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rL8rBekWDiMfvV0Pmk/giphy.gif" align="left" width="240">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juda-Tech-Green/Juda-Tech-Green/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juda-Tech-Green/Juda-Tech-Green/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juda-Tech-Green/Juda-Tech-Green/output/pacman-contribution-graph.svg">
+</picture>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fjalla+One&pause=1000&color=00FF9C&width=435&lines=JavaScrip%2C+Typescript+%26+React;Environmental+Engineer;Air%2C+Water+%26+Soil+Quality+Analisis;Environmental+Data+Scientist;Python%2C+Flask+%26+Django;QGIS%2C+2D+%26+3D" alt="Typing SVG" /></a>
+###
 
-I’m a 🌱 **planet-conscious developer** with f"{datetime.now().strftime('%Y') - 2018}" years of experience weaving code and data to solve real-world challenges.  
-💻 By day: Crafting web apps with Python and JavaScript.  
-🌍 By passion: Modeling ecosystems with spatial data (QGIS) and fighting climate change one dataset at a time. 
+<p align="left">I’m a 🌱 planet-conscious developer with f"{datetime.now().strftime('%Y') - 2018}" years of experience weaving code and data to solve real-world challenges.  <br><br>🌍 By passion: Modeling ecosystems with spatial data (QGIS) and fighting climate change one dataset at a time. <br><br>☀️ By day: Crafting web apps with Python and JavaScript.  <br><br>🌒 By night: Transforming ideas into playable universes with dev tools and creativity.</p>
 
----
+###
 
-<h3>  🛠️ My Skills  </h3
-                     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juda-Tech-Green&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juda-Tech-Green&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
----
+###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/u59bn8yjra8skecdt4w6zv44u">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=u59bn8yjra8skecdt4w6zv44u&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
