@@ -9,20 +9,16 @@
 
 I’m a 🌱 **planet-conscious developer** with f"{datetime.now().strftime('%Y') - 2018}" years of experience weaving code and data to solve real-world challenges.  
 
-💻 By day: Crafting web apps with JavaScript and Python.  
+💻 By day: Crafting web apps with Python and JavaScript.  
 🌍 By passion: Modeling ecosystems with spatial data (QGIS) and fighting climate change one dataset at a time.  
 
+ [!TIP]
 I thrive where technology meets sustainability — whether debugging a React component or analyzing pollution trends with 🐼 Pandas.  
 
+---
 **Belief:** The best solutions emerge when we connect 📊 data, 💡 code, and 👥 people.  
 
-### 🛠️ **Tech Stack**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-### Technologies I Work With:
-* JavaScript, Typescript, ES6 ✅
-* Python ✅
-* QGIS | ArcGIS ✅
-* SQL ✅
+### 🛠️ My Skills**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=donut-vertical)]
 
 
