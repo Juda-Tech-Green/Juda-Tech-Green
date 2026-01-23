@@ -7,9 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fjalla+One&pause=1000&color=00FF9C&width=435&lines=JavaScrip%2C+Typescript+%26+React;Environmental+Engineer;Air%2C+Water+%26+Soil+Quality+Analisis;Environmental+Data+Scientist;Python%2C+Flask+%26+Django;QGIS%2C+2D+%26+3D" alt="Typing SVG" /></a>
 
 ---
-I’m a 🌱 **planet-conscious developer** with f"{datetime.now().strftime('%Y') - 2018}" years of experience weaving code and data to solve real-world challenges.  
+
+<p> I’m a 🌱 **planet-conscious developer** with f"{datetime.now().strftime('%Y') - 2018}" years of experience weaving code and data to solve real-world challenges.  
 💻 By day: Crafting web apps with Python and JavaScript.  
-🌍 By passion: Modeling ecosystems with spatial data (QGIS) and fighting climate change one dataset at a time.  
+🌍 By passion: Modeling ecosystems with spatial data (QGIS) and fighting climate change one dataset at a time. </p>
+
 ---
 
 ### 🛠️ My Skills  
