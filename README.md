@@ -12,9 +12,9 @@ I’m a 🌱 **planet-conscious developer** with f"{datetime.now().strftime('%Y'
 
 
 ### 🛠️ My Skills**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=donut-vertical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=donut-vertical)
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juda-Tech-Green)]
+
 
