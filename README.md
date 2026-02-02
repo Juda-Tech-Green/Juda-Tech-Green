@@ -4,14 +4,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juda-Tech-Green/Juda-Tech-Green/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juda-Tech-Green/Juda-Tech-Green/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juda-Tech-Green/Juda-Tech-Green/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <p align="left">I’m a 🌱 planet-conscious developer with f"{datetime.now().strftime('%Y') - 2018}" years of experience weaving code and data to solve real-world challenges.  <br><br>🌍 By passion: Modeling ecosystems with spatial data (QGIS) and fighting climate change one dataset at a time. <br><br>☀️ By day: Crafting web apps with Python and JavaScript.  <br><br>🌒 By night: Transforming ideas into playable universes with dev tools and creativity.</p>
 
 ###
