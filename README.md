@@ -8,9 +8,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juda-Tech-Green&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=Juda-Tech-Green&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://github.com/Juda-Tech-Green)>
 
 ###
 
