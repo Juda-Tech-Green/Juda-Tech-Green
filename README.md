@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Bio-Synthetic Waving Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&text=JuDa%20//%20Planet-Conscious%20Dev&fontSize=42&fontColor=73EC8B&fontAlign=50&fontAlignY=40&desc=Weaving%20Code,%20Spatial%20Intelligence%20%26%20Machine%20Learning&descSize=18&descAlign=50&descAlignY=62&stroke=-&strokeWidth=0&animation=fadeIn&color=0b0f12,101417,004d2c" alt="JuDa Cyber-Ecological Hub" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&text=JuDa%20//%20Planet-Conscious%20Dev&fontSize=42&fontColor=73EC8B&fontAlign=50&fontFamily=Georgia&fontWeight=700&color=0b0f12,101417,004d2c" alt="JuDa Planet-Conscious Dev Header" />
 
   <!-- Live Telemetry Status Pills -->
   <p align="center">
@@ -76,9 +76,9 @@ core_vectors:
 ### 📡 Telemetry & Open Source Vectors
 
 <div align="center">
-  <!-- GitHub Streak Dark with Neon Green Hue -->
+  <!-- GitHub Streak Stats (updated endpoint for reliable card rendering) -->
   <a href="https://github.com/Juda-Tech-Green">
-    <img src="https://github-streak-stats-ruby.vercel.app/?user=Juda-Tech-Green&theme=dark&background=101417&border=1e293b&stroke=73EC8B&ring=73EC8B&fire=00ff87&currStreakLabel=73EC8B&sideLabels=94a3b8&dates=64748b&hide_border=false&border_radius=8" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Juda-Tech-Green&theme=dark&background=101417&border=1e293b&stroke=73EC8B&ring=73EC8B&fire=00ff87&currStreakLabel=73EC8B&sideLabels=94a3b8" alt="GitHub Streak Stats" />
   </a>
 </div>
 
@@ -87,8 +87,8 @@ core_vectors:
 <div align="center">
   <!-- GitHub Top Languages / Stats -->
   <a href="https://github.com/Juda-Tech-Green">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juda-Tech-Green&show_icons=true&theme=dark&bg_color=101417&title_color=73EC8B&text_color=94a3b8&icon_color=00ff87&border_color=1e293b&border_radius=8" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=compact&theme=dark&bg_color=101417&title_color=73EC8B&text_color=94a3b8&border_color=1e293b&border_radius=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Juda-Tech-Green&show_icons=true&theme=dark&bg_color=101417&title_color=73EC8B&text_color=94a3b8&icon_color=00ff87&border_color=1e293b&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juda-Tech-Green&layout=compact&theme=dark&bg_color=101417&title_color=73EC8B&text_color=94a3b8&border_color=1e293b&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
