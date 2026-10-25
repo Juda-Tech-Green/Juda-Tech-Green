@@ -94,19 +94,18 @@ core_vectors:
 
 <br>
 
-### 🎧 Acoustic Radar // Audio Stream
-
-<div align="center">
-  <p><i>Bioluminescent Frequencies // Deep Focus Mode</i></p>
-  <a href="https://open.spotify.com/user/u59bn8yjra8skecdt4w6zv44u" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=u59bn8yjra8skecdt4w6zv44u&count=4" alt="Spotify Recently Played" />
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <!-- Animated Footer Wave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&reversal=false&stroke=-&color=004d2c,101417,0b0f12" alt="Footer Gradient" />
   <sub>⚡ Autonomous biological computing framework // Coordinates: 37.7749° N, 122.4194° W // CUDA Acceleration: Active</sub>
 </div>
+
+<br>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juda-Tech-Green/Juda-Tech-Green/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juda-Tech-Green/Juda-Tech-Green/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juda-Tech-Green/Juda-Tech-Green/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+
